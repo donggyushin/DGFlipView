@@ -73,7 +73,6 @@ private struct FlipViewPreview: View {
                     .foregroundColor(.white)
             }
         }
-        
     }
 }
 
